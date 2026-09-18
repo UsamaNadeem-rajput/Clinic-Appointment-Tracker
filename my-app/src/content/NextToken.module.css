@@ -1,0 +1,21 @@
+
+.heading{
+    text-align: center;
+}
+
+.nexttoken{
+    height: 100px;
+    width: 200px;
+    border-radius: 30%;
+    font-size: 20px;
+}
+
+.nexttokenbody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(176, 216, 203);
+    height: 30vh;
+
+
+}

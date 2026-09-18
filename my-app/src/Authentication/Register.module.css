@@ -1,0 +1,48 @@
+.parent{
+    background-color: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.loginform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    width: 60%;   
+    height: 60%;
+
+}
+
+.loginform h1{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+}
+
+.formgrpup{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(112, 216, 220);
+    border-color: white ;
+    cursor: pointer;
+}
+
